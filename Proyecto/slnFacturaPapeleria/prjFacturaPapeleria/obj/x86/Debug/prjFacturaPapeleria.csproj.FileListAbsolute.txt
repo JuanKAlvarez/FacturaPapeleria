@@ -1,0 +1,7 @@
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\prjFacturaPapeleria.exe
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\prjFacturaPapeleria.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmMainMenu.resources
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.Properties.Resources.resources
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.csproj.GenerateResource.Cache
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.exe
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.pdb
