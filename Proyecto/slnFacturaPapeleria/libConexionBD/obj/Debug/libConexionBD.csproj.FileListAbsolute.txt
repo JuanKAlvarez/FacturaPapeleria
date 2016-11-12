@@ -1,0 +1,39 @@
+C:\Users\jmunera\Desktop\Fuentes\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\jmunera\Desktop\Fuentes\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\jmunera\Desktop\Fuentes\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Desktop\Fuentes\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\jmunera\Desktop\Fuentes\libConexionBD\obj\Debug\libConexionBD.pdb
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes - copia\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes - copia\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes - copia\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes - copia\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes - copia\libConexionBD\obj\Debug\libConexionBD.pdb
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\jmunera\Documents\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.pdb
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.pdb
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Debug\libConexionBD.dll
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Debug\libConexionBD.pdb
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.dll
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Debug\libConexionBD.pdb
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libConexionBD\bin\Debug\libConexionBD.dll
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libConexionBD\bin\Debug\libConexionBD.pdb
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libConexionBD\obj\Debug\libConexionBD.dll
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libConexionBD\obj\Debug\libConexionBD.pdb
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libConexionBD\obj\Debug\libConexionBD.pdb
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\bin\Debug\libConexionBD.dll
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\bin\Debug\libConexionBD.pdb
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\obj\Debug\libConexionBD.dll
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\obj\Debug\libConexionBD.pdb

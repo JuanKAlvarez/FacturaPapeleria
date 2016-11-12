@@ -1,0 +1,15 @@
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libUtilidades\bin\Debug\libUtilidades.dll
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libUtilidades\bin\Debug\libUtilidades.pdb
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libUtilidades\obj\Debug\libUtilidades.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libUtilidades\obj\Debug\libUtilidades.dll
+C:\Users\jmunera\Downloads\Programacion con BD\slnGestionarMatriculas\libUtilidades\obj\Debug\libUtilidades.pdb
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libUtilidades\bin\Debug\libUtilidades.dll
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libUtilidades\bin\Debug\libUtilidades.pdb
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libUtilidades\obj\Debug\libUtilidades.csprojResolveAssemblyReference.cache
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libUtilidades\obj\Debug\libUtilidades.dll
+E:\David Munera\Programacion con BD\slnGestionarMatriculas\libUtilidades\obj\Debug\libUtilidades.pdb
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\bin\Debug\libUtilidades.dll
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\bin\Debug\libUtilidades.pdb
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\obj\Debug\libUtilidades.csprojResolveAssemblyReference.cache
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\obj\Debug\libUtilidades.dll
+E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\obj\Debug\libUtilidades.pdb

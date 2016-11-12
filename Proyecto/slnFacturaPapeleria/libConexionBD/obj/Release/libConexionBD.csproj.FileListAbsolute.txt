@@ -1,0 +1,10 @@
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Release\libConexionBD.dll
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Release\libConexionBD.pdb
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Release\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Release\libConexionBD.dll
+C:\Users\jmunera\Documents\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Release\libConexionBD.pdb
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Release\libConexionBD.dll
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\bin\Release\libConexionBD.pdb
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Release\libConexionBD.csprojResolveAssemblyReference.cache
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Release\libConexionBD.dll
+E:\ADesarrollo\Desarrollos\Coogranada\Servicio Web Proveedores\Fuentes\libConexionBD\obj\Release\libConexionBD.pdb
