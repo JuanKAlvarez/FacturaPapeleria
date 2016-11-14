@@ -13,3 +13,8 @@ E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\bin\Debug\l
 E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\obj\Debug\libUtilidades.csprojResolveAssemblyReference.cache
 E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\obj\Debug\libUtilidades.dll
 E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libUtilidades\obj\Debug\libUtilidades.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libUtilidades\bin\Debug\libUtilidades.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libUtilidades\bin\Debug\libUtilidades.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libUtilidades\obj\Debug\libUtilidades.csprojResolveAssemblyReference.cache
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libUtilidades\obj\Debug\libUtilidades.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libUtilidades\obj\Debug\libUtilidades.pdb

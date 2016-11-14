@@ -11,3 +11,6 @@ C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFact
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\Imagenes\IconoCategoria.png
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\Imagenes\IconoFactura.png
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\Imagenes\IconoUsuarios.png
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libUtilidades.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libUtilidades.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmFactura.resources
