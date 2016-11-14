@@ -14,3 +14,10 @@ C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFact
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libUtilidades.dll
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libUtilidades.pdb
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmFactura.resources
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\Imagenes\IconoAgregar.png
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\Imagenes\IconoEditar.png
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\Imagenes\IconoEliminar.png
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\Imagenes\IconoNuevo.png
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmCategorias.resources
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmProductos.resources
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmUsuarios.resources
