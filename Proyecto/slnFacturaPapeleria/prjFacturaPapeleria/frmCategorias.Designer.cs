@@ -43,10 +43,13 @@
             this.tsBtnEliminar = new System.Windows.Forms.ToolStripButton();
             this.tsBtnNuevo = new System.Windows.Forms.ToolStripButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTabla)).BeginInit();
             this.grbFormulario.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // dgvTabla
@@ -58,7 +61,7 @@
             this.dgvTabla.Location = new System.Drawing.Point(3, 16);
             this.dgvTabla.Name = "dgvTabla";
             this.dgvTabla.ReadOnly = true;
-            this.dgvTabla.Size = new System.Drawing.Size(478, 255);
+            this.dgvTabla.Size = new System.Drawing.Size(478, 245);
             this.dgvTabla.TabIndex = 8;
             this.dgvTabla.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTabla_CellClick);
             // 
@@ -72,7 +75,7 @@
             this.grbFormulario.Dock = System.Windows.Forms.DockStyle.Top;
             this.grbFormulario.Location = new System.Drawing.Point(0, 41);
             this.grbFormulario.Name = "grbFormulario";
-            this.grbFormulario.Size = new System.Drawing.Size(484, 147);
+            this.grbFormulario.Size = new System.Drawing.Size(484, 157);
             this.grbFormulario.TabIndex = 7;
             this.grbFormulario.TabStop = false;
             // 
@@ -84,6 +87,7 @@
             this.txtDescripCategoria.Name = "txtDescripCategoria";
             this.txtDescripCategoria.Size = new System.Drawing.Size(410, 46);
             this.txtDescripCategoria.TabIndex = 2;
+            this.txtDescripCategoria.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtDescripCategoria_KeyPress);
             // 
             // txtNomCategoria
             // 
@@ -92,6 +96,7 @@
             this.txtNomCategoria.Name = "txtNomCategoria";
             this.txtNomCategoria.Size = new System.Drawing.Size(410, 24);
             this.txtNomCategoria.TabIndex = 1;
+            this.txtNomCategoria.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNomCategoria_KeyPress);
             // 
             // label2
             // 
@@ -190,18 +195,39 @@
             // 
             this.groupBox1.Controls.Add(this.dgvTabla);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupBox1.Location = new System.Drawing.Point(0, 188);
+            this.groupBox1.Location = new System.Drawing.Point(0, 198);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(484, 274);
+            this.groupBox1.Size = new System.Drawing.Size(484, 264);
             this.groupBox1.TabIndex = 10;
             this.groupBox1.TabStop = false;
-  
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.label3);
+            this.groupBox2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.groupBox2.Location = new System.Drawing.Point(0, 198);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(484, 35);
+            this.groupBox2.TabIndex = 12;
+            this.groupBox2.TabStop = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.AppWorkspace;
+            this.label3.Location = new System.Drawing.Point(13, 16);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(256, 16);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "De click para editar o eliminar un registro  ";
             // 
             // frmCategorias
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(484, 462);
+            this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.grbFormulario);
             this.Controls.Add(this.toolStrip1);
@@ -216,6 +242,8 @@
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.groupBox1.ResumeLayout(false);
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -237,5 +265,7 @@
         private System.Windows.Forms.TextBox txtDescripCategoria;
         private System.Windows.Forms.TextBox txtNomCategoria;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Label label3;
     }
 }

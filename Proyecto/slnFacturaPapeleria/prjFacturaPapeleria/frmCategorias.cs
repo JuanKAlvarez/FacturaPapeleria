@@ -309,7 +309,30 @@ DataTable _dtTbl;
             tsBtnModificar.Enabled = true;
 
         }
+
+        private void txtNomCategoria_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (tsBtnAgregar.Enabled == true)
+            {
+                if (e.KeyChar == Convert.ToChar(Keys.Enter))
+                {
+                    InsetCategoria();
+                }
+            }
+        }
+
+        private void txtDescripCategoria_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (tsBtnAgregar.Enabled == true)
+            {
+                if (e.KeyChar == Convert.ToChar(Keys.Enter))
+                {
+                    InsetCategoria();
+                }
+            }
+        }
         #endregion
+
 
     }
 }
