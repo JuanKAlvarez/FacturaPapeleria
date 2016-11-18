@@ -21,3 +21,7 @@ C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFact
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmCategorias.resources
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmProductos.resources
 C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\obj\x86\Debug\prjFacturaPapeleria.frmUsuarios.resources
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libCategoriaRN.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libConexionBD.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libCategoriaRN.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\prjFacturaPapeleria\bin\Debug\libConexionBD.pdb

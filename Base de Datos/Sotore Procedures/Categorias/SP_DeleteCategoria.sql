@@ -1,0 +1,15 @@
+USE [PAPELERIA]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+Create Procedure SP_DeleteCategoria
+(
+@Id			  int
+)
+AS
+BEGIN
+	DELETE FROM CATEORIAS
+    WHERE IdCategoria = @Id	
+END

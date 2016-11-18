@@ -1,5 +1,7 @@
+USE [PAPELERIA]
+GO
 CREATE TABLE USUARIOS
-(IdUsuario		int		 NOT NULL ,
+(IdUsuario		int		 IDENTITY (1, 1) NOT NULL ,
  NombreCompleto char(50) NOT NULL ,
  Cargo			char(30),
  Celular		int  ,
@@ -9,21 +11,21 @@ CREATE TABLE USUARIOS
 );
 
 CREATE TABLE CATEORIAS
-(IdCategoria	 int	  NOT NULL ,
+(IdCategoria	 int	  IDENTITY (1, 1) NOT NULL ,
  NombreCat       char(50) NOT NULL ,
  DescripcionCat	 char(150),
  PRIMARY KEY (IdCategoria)
 );
 
 CREATE TABLE FACTURAS
-(IdFactura		int		 NOT NULL ,
+(IdFactura		int		 IDENTITY (1, 1) NOT NULL ,
  Fecha			datetime ,
  PRIMARY KEY (IdFactura),
  IdUsuario int FOREIGN KEY REFERENCES USUARIOS(IdUsuario)
 );
 
 CREATE TABLE PRODUCTOS
-(IdProducto		int		 NOT NULL ,
+(IdProducto		int		 IDENTITY (1, 1) NOT NULL ,
  NombreProducto char (50) NOT NULL ,
  Precio			float,
  Valor			float,
@@ -33,7 +35,7 @@ CREATE TABLE PRODUCTOS
 );
 
 CREATE TABLE DETALLES
-(IdDetalles		int		 NOT NULL ,
+(IdDetalles		int		 IDENTITY (1, 1) NOT NULL ,
  Cantidad		int ,
  Precio			float,
  PRIMARY KEY (IdDetalles),

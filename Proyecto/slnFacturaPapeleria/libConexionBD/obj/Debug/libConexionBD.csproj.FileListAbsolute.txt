@@ -37,3 +37,8 @@ E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\bin\Debug\l
 E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
 E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\obj\Debug\libConexionBD.dll
 E:\Docencia\ITM\2016-2\Programacion BD\slnPrematricula\libConexionBD\obj\Debug\libConexionBD.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libConexionBD\obj\Debug\libConexionBD.pdb

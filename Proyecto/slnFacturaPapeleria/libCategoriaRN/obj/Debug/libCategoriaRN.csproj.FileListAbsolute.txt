@@ -1,0 +1,9 @@
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\bin\Debug\libCategoriaRN.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\bin\Debug\libCategoriaRN.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\bin\Debug\libConexionBD.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\bin\Debug\libUtilidades.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\bin\Debug\libConexionBD.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\bin\Debug\libUtilidades.pdb
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\obj\Debug\libCategoriaRN.csprojResolveAssemblyReference.cache
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\obj\Debug\libCategoriaRN.dll
+C:\Users\JuanKAlvarez\Desktop\FacturaPapeleria\FacturaPapeleria\Proyecto\slnFacturaPapeleria\libCategoriaRN\obj\Debug\libCategoriaRN.pdb

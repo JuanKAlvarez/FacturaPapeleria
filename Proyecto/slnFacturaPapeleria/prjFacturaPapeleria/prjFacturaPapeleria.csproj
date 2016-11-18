@@ -181,6 +181,14 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\libCategoriaRN\libCategoriaRN.csproj">
+      <Project>{dcbfecd8-ae5a-4f63-8c00-879524917ef4}</Project>
+      <Name>libCategoriaRN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\libConexionBD\libConexionBD.csproj">
+      <Project>{89a69de5-9090-4653-a5d6-c625890c15f7}</Project>
+      <Name>libConexionBD</Name>
+    </ProjectReference>
     <ProjectReference Include="..\libUtilidades\libUtilidades.csproj">
       <Project>{7b14b7ce-0a9f-4c68-9f92-bb9bdfe76083}</Project>
       <Name>libUtilidades</Name>
